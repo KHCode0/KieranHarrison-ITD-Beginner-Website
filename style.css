@@ -1,0 +1,37 @@
+body {
+  font-family: garmond;
+  font-size: 20px;
+  color: white;
+  text-align: left;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chongqing_Nightscape.jpg/1200px-Chongqing_Nightscape.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 24px;
+}
+
+div.main {
+  background-color: rgba(0, 0, 0, 0.8);
+  text-align: left;
+  width: 100%;
+  max-width: 95%;
+  border: 0px solid black;
+  padding: 50px;
+  margin: 0 auto;
+}
+
+span {
+  color: white;
+}
+
+img {
+  background-color: black;
+  width: auto;
+  height: 600px;
+  border: 10px solid black;
+  margin: 10px;
+  padding: 10px 10px;
+}
+
+div.center {
+  text-align: center;
+}
